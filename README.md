@@ -16,7 +16,7 @@ Corpus; Visualisation; Topic modelling; Clustering; Network
 ##### Theses descriptive statistics
 The theses from NOVA IMS Master programs can be considered as: a dissertation, an internship report or a work project. Figure 6.1 summarises the numbers of each type of theses across the last two decades. Overall, the three types of theses show clear upward trends in numbers. However, they marginally decreased in 2021 for dissertations and work projects.  The dissertation has been the most preferred choice by students about to complete their masters. Although the Internship report is the least preferred choice, its number rose slightly to about forty (40) theses in 2021.
 
-### Adcionar Grafico
+https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/Distribution%20of%20the%20Master%20theses%E2%80%99%20type%20per%20year.png
 
 ##### Abstract descriptive statistics
 Figure 6.3 shows the distribution of the word numbers in the abstracts related to each thesis and the annual average of the word numbers. Overall, the number of words follows a normal distribution. Most abstracts have a total number of words within the expected range (around 80-250). Consequently, the average in most of the years is below 250. 
