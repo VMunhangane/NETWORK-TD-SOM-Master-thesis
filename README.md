@@ -24,12 +24,12 @@ Figure below shows the distribution of the word numbers in the abstracts related
 
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/Distribution%20of%20word%20count%20and%20the%20annual%20average%20length%20of%20abstracts%20from%20theses.png)
 
-Figure 6.5 illustrates the most popular 200 words in the abstracts. Overall, "Model", "data", "result", "area", "analysis", "system", "based", "project", "information", "study", "land_cover", "algorithm", "management" and "application knowledge" are some examples of words that are more frequently mentioned in the abstracts of the Masters' theses from NOVA IMS. 
-
+Figure below illustrates the most popular 200 words in the abstracts. Overall, "Model", "data", "result", "area", "analysis", "system", "based", "project", "information", "study", "land_cover", "algorithm", "management" and "application knowledge" are some examples of words that are more frequently mentioned in the abstracts of the Masters' theses from NOVA IMS. 
+![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/abstracts%20word%20cloud.png)
 
 
 #### TOPIC MODELLING RESULTS 
-####### LDA results 
+###### LDA results 
 Figure below allows uncovering the thematic structure of the Master’s theses dataset and shows the average prevalence of the topics for four different courses/specialisations in a given year. Overall, in each course/specialisation, there is a good match with the respective most dominant topic. This indicates that LDA has correctly discovered the latent topics in an unsupervised way. 
 
 ##### Graphic legend
@@ -59,9 +59,9 @@ https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/d
 A hybrid clustering approach was used to find the clusters of the theses. In the first stage, SOM was applied. The best match units (BMUs) found in the first stage, were used in the second stage. Ward was applied on the BMUs. After analysing the dendrogram, the solution of 6 and 5 clusters using the topic vectors/features from LDA and BERTopic were selected, respectively. Figure below shows how the clusters are organised using features from each topic modelling algorithm.
 
 ###### som heatmaps from lda topic vectors
-![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/LDA%20topics%20legend.png)
+![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/som%20heatmaps%20from%20lda%20topic%20vectors.png)
 ###### som heatmaps from bertopic topic vectors
-![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/LDA%20topics%20legend.png)
+![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/som%20heatmaps%20from%20bertopic%20topic%20vectors.png)
 
 #### Network of the theses
 
