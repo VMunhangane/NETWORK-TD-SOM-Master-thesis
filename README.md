@@ -45,7 +45,8 @@ https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/d
 Figure below shows the average prevalence of the topics for four different courses/specialisations in a given year. Overall, it is possible to see that the courses/specialisations and their dominant topics match. Additionally, the top 25 words are semantically linked with the names of the courses/specialisations where they are dominant. This indicates that BERTopic has correctly and semantically discovered the latent topics in an unsupervised way.
 
 ##### Graphic legend
-![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/LDA%20topics%20legend.png)
+![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/BERTopic%20topics%20legend.png)
+
 ![pdf](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(lda)_graph_1.pdf)
 
 
