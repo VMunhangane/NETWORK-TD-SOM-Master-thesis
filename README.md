@@ -58,9 +58,9 @@ https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/d
 #### CLUSTERING RESULTS
 A hybrid clustering approach was used to find the clusters of the theses. In the first stage, SOM was applied. The best match units (BMUs) found in the first stage, were used in the second stage. Ward was applied on the BMUs. After analysing the dendrogram, the solution of 6 and 5 clusters using the topic vectors/features from LDA and BERTopic were selected, respectively. Figure below shows how the clusters are organised using features from each topic modelling algorithm.
 
-###### som heatmaps from lda topic vectors
+##### som heatmaps from lda topic vectors
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/som%20heatmaps%20from%20lda%20topic%20vectors.png)
-###### som heatmaps from bertopic topic vectors
+##### som heatmaps from bertopic topic vectors
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/som%20heatmaps%20from%20bertopic%20topic%20vectors.png)
 
 #### Network of the theses
