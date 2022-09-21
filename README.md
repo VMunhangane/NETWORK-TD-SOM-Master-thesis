@@ -11,6 +11,10 @@ Corpus; Visualisation; Topic modelling; Clustering; Network
 ## Link to acess the thesis
 Coming soon!!
 
+## NETWORK TD SOM (short description)
+We proposed a Network TD-SOM, which means Network and Self-organised maps of the topic documents. The approach sets a systematic process (Figure below) to cluster and represent the relatedness of the documents in a corpus. Additionally, it allows extracting helpful knowledge or uncovering the thematic structure in the corpus without needing to read all the documents. Network TD-SOM combines topic modelling algorithms, cluster algorithms and network analysis. Network TD-SOM is composed of 8 main steps: document collection, text descriptive and pre-processing, transformation, topic model training and evaluation, topic model interpretation, clustering documents, Network analysis and visualisation.
+
+![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/Network%20TD-SOM%20workflow%20composed%20of%20eight%20main%20steps.png)
 
 ## Some results and visualisations
 
