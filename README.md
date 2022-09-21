@@ -34,7 +34,7 @@ Figure below allows uncovering the thematic structure of the Master’s theses d
 
 ##### Graphic legend
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/LDA%20topics%20legend.png)
-![pdf](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(lda)_graph_1.pdf)
+![pdf](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(lda)_graph_1.png)
 
 ##### Links below provides information about other courses/specialisations. In each course/specialisation, there is good matching with the respective most dominant topic.:
 https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(lda)_graph_2.pdf
@@ -47,7 +47,7 @@ Figure below shows the average prevalence of the topics for four different cours
 ##### Graphic legend
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/BERTopic%20topics%20legend.png)
 
-![pdf](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(lda)_graph_1.pdf)
+![pdf](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/distribution%20of%20weight%20topics%20by%20courses%20specialisations%20per%20year%20(bertopic)_graph_1.png)
 
 
 ##### Links below provides information about other courses/specialisations. In each course/specialisation, there is good matching with the respective most dominant topic.:
