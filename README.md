@@ -8,6 +8,8 @@ Digital libraries are innovative technologies for knowledge sharing. Endless qua
 ##### KEYWORDS: 
 Corpus; Visualisation; Topic modelling; Clustering; Network
 
+## Link to acess the thesis
+Coming soon!!
 
 
 ## Some results and visualisations
