@@ -69,11 +69,11 @@ A hybrid clustering approach was used to find the clusters of the theses. In the
 Figure bellow shows the interlinkages of the master theses from NOVA IMS modelled by using the LDA topic vectors. The arrangement of the network has a good similarity with cluster results. 
 
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/The%20master%20theses%20network%20by%20using%20LDA%20topic%20vectors.png)
-
+Link to access the interactive visualisation: https://vmunhangane.github.io/Thesis_vis/network/
 
 ##### The theses network results (BERTopic topic vector)
 Figure below shows the interlinkages of the master theses from NOVA IMS modelled by using the BERTopic topic vectors. Overall, the network is dense, and some nodes are overlapping. 
 
 ![image](https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis/blob/main/analysis/The%20master%20theses%20network%20by%20using%20BERTopic%20topic%20vectors.png)
-
+Link to access the interactive visualisation: https://vmunhangane.github.io/Theses_bertopic/network/
 
